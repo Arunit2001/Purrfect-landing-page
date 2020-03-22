@@ -1,0 +1,11 @@
+.container{
+	padding-top: 10%;
+}
+
+#inputPassword3, #inputEmail3, #username{
+	width: 400px;
+}
+
+.email, .password, .username{
+	padding-top: 10px;
+}

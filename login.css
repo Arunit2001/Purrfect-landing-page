@@ -1,0 +1,19 @@
+.container{
+	padding-top: 10%;
+}
+
+.username{
+	padding-bottom: 10px;
+}
+
+.password{
+	padding-top: 10px;
+}
+
+#username{
+	width: 400px;
+}
+
+#inputPassword3{
+	width: 400px;
+}
